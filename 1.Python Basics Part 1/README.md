@@ -1,5 +1,5 @@
 # **Python Basics** : Part 1
-> credits : @saurabh618
+> credits : [@saurabh618](https://github.com/saurabh618 "Saurabh Agarwal")
 
 | SQ. | Topics                                                                                                                       |
 | --- | ---------------------------------------------------------------------------------------------------------------------------- |
